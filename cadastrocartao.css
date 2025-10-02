@@ -1,0 +1,56 @@
+/*do icon ao footer é padrao*/
+.icon {
+    font-size: 30px;
+    color: white;
+    margin: 5px;
+}
+
+.navegar {
+    background-color: #F2B544;
+}
+
+.footer_cor {
+    background-color: #9AA97F;
+}
+
+
+.imagem {
+    display: flex;
+    flex-wrap: wrap;
+    overflow-wrap: unset;
+    overflow: clip;
+    max-height: calc(100vh - 100px);
+}
+
+.imagem img {
+    padding-top: 80px;
+}
+
+#div-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin:80px;
+
+}
+#div-container form{
+    margin-top: 100px;
+    background-color: #ffffff;
+    height: 60vh;
+    width: 30%;
+}
+
+.btn{
+    background-color: black;
+    width:94% ;
+}
+
+.titulonav{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    color: #A62B1F;
+
+
+}
