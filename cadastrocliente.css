@@ -14,7 +14,7 @@
 
 .card_cadastro {
     background-color: rgb(154, 169, 127);
-    margin: 10px;
     justify-content: center;
     flex-direction: row;
+    margin-top: 50px;
 }
